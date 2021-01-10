@@ -23,9 +23,9 @@ I love sharing my knowledge and experience, and sharing solutions & problems as 
 **NOTE**: *Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
 
 <a href="https://github.com/mosaber7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-taman&count_private=true&show_icons=true&theme=radical&hide_border=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mosaber7&count_private=true&show_icons=true&theme=radical&hide_border=false" />
 </a> 
 <a href="https://github.com/mosaber7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-taman&layout=compact&theme=radical&hide_border=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosaber7&layout=compact&theme=radical&hide_border=false" />
 </a>
 
