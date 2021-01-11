@@ -29,9 +29,10 @@ I love sharing my knowledge and experience, and sharing solutions & problems as 
 </a> 
 <a href="https://github.com/mosaber7">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosaber7&layout=compact&theme=radical&hide_border=false" />
-</a>
-##
-##
 
-<img align='center' src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" width="1024">
+
+</a>
+
+
+<img align='center' src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" width="600">
 
