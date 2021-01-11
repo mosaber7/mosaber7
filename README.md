@@ -1,5 +1,6 @@
 ### Hi there, I'am Mo! 👋
-<img align='right' src="https://raw.githubusercontent.com/selimdoyranli/selimdoyranli/master/preview.gif" width="230">
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<img align='right' src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="230">
 
 
 [![Instagram URL](https://img.shields.io/static/v1?color=red&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=follow)](https://www.instagram.com/mo_saber77/)
