@@ -1,5 +1,4 @@
 ### Hi there, I'am Mo! 👋
-![Alt Text](https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif)
 <img align='right' src="https://raw.githubusercontent.com/selimdoyranli/selimdoyranli/master/preview.gif" width="230">
 
 
@@ -32,3 +31,4 @@ I love sharing my knowledge and experience, and sharing solutions & problems as 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosaber7&layout=compact&theme=radical&hide_border=false" />
 </a>
 
+![Alt Text](https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif)
