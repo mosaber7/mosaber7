@@ -34,5 +34,5 @@ I love sharing my knowledge and experience, and sharing solutions & problems as 
 </a>
 
 
-<img align='center' src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" width="600">
+<img align='center' src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" width="900">
 
