@@ -1,5 +1,5 @@
 ### Hi there, I'am Mo! 👋
-<img align='right' src="https://media.giphy.com/media/12pwt3qlbVVBfy/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/Mscw2tH9hcAne/giphy.gif" width="230">
 
 
 [![Instagram URL](https://img.shields.io/static/v1?color=red&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=follow)](https://www.instagram.com/mo_saber77/)
