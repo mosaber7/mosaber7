@@ -32,5 +32,5 @@ I love sharing my knowledge and experience, and sharing solutions & problems as 
 </a>
 <hr/>
 
-<img align='center' src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" width="900">
+<img align='right' src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" width="900">
 
