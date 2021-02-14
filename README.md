@@ -1,4 +1,4 @@
-### Hi there, I'am Mo! 👋
+### Holla Amigos, I'am Mo! 👋
 <img align='right' src="https://media.giphy.com/media/Mscw2tH9hcAne/giphy.gif" width="230">
 
 
