@@ -18,7 +18,7 @@ I love sharing my knowledge and experience, and sharing solutions & problems as 
 
 - 🔭 **Also, I’m working on**: Something cool related to my Graduation Project and soon will publish it 😉.
 
-- 💬 **Ask me about**: OOP, Swift, iOS development, C#, Java, Python, Database, Design Patterns, Testing.
+- 💬 **Ask me about**: Machine learning, AI, OOP, Swift, iOS development, C#, Java, Python, Database, Design Patterns, Testing.
 
 - 📫 **How to reach me**: catch, and follow me from the above links 👆, in addition to follow me here.
 
