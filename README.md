@@ -7,7 +7,7 @@ also known as Saber Stark, you will know why they call me that when you meet me,
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/mohamed-saber-fares/)
 [![Facebook URL](https://img.shields.io/static/v1?color=red&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/mohamed.elmagec.104)
 
-** I am a talented young programmer, bugs slayer, Tech nerd, life-long learner, Trainer, Reader, Big brother!, and a friend. **  
+** I am a talented young programmer, bugs slayer, Tech nerd, life-long learner, Trainer, Reader, Big brother, and a friend. **  
 
 ** best known for : super fast learner and anime lover XD **
 
