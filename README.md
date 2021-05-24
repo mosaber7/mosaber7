@@ -1,4 +1,4 @@
-### Holla Amigos, I'am Mo! 👋
+### Hello there, I'm Mo! 👋
 also known as Saber Stark, you will know why they call me that when you meet me, or should I say 'code with me'😉
 <img align='right' src="https://media.giphy.com/media/Mscw2tH9hcAne/giphy.gif" width="230">
 
