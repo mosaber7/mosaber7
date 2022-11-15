@@ -5,7 +5,7 @@
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/mohamed-saber-fares/)
 
 
-** I am a talented young programmer, bugs slayer, Tech nerd, life-long learner, Trainer, Reader, Big brother, and a friend. **  
+** I am a bugs slayer, Tech nerd, life-long learner, Trainer, Reader, Big brother, and a friend. **  
 
 ** best known for : super fast learner and anime lover XD **
 
